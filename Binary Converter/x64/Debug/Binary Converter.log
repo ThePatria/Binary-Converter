@@ -1,0 +1,4 @@
+﻿  Binary Converter.cpp
+D:\Visual Studio 2022\Project File\Binary Converter\Binary Converter\Binary Converter.cpp(50,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio 2022\Project File\Binary Converter\Binary Converter\Binary Converter.cpp(53,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Binary Converter.vcxproj -> D:\Visual Studio 2022\Project File\Binary Converter\x64\Debug\Binary Converter.exe
